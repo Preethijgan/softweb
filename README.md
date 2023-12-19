@@ -805,10 +805,10 @@ contactus.html
 ```
 ## OUTPUT:
 
-C:\Users\admin\Pictures\Screenshots\Screenshot (41).png
-C:\Users\admin\Pictures\Screenshots\Screenshot (42).png
-C:\Users\admin\Pictures\Screenshots\Screenshot (43).png
-C:\Users\admin\Pictures\Screenshots\Screenshot (44).png
+Screenshot (41).png
+Screenshot (42).png
+Screenshot (43).png
+Screenshot (44).png
 
 
 
