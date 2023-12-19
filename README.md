@@ -805,11 +805,6 @@ contactus.html
 ```
 ## OUTPUT:
 
-Screenshot (41).png
-Screenshot (42).png
-Screenshot (43).png
-Screenshot (44).png
-
 
 
 ## RESULT:
