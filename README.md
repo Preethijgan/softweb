@@ -805,10 +805,11 @@ contactus.html
 ```
 ## OUTPUT:
 
-![Alt text](<Screenshot (41).png>)
-![Alt text](<Screenshot (42).png>)
-![Alt text](<Screenshot (43).png>)
-![Alt text](<Screenshot (44).png>)
+C:\Users\admin\Pictures\Screenshots\Screenshot (41).png
+C:\Users\admin\Pictures\Screenshots\Screenshot (42).png
+C:\Users\admin\Pictures\Screenshots\Screenshot (43).png
+C:\Users\admin\Pictures\Screenshots\Screenshot (44).png
+
 
 
 ## RESULT:
