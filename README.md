@@ -805,6 +805,11 @@ contactus.html
 ```
 ## OUTPUT:
 
+![Alt text](<Screenshot (41).png>)
+![Alt text](<Screenshot (42).png>)
+![Alt text](<Screenshot (43).png>)
+![Alt text](<Screenshot (44).png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
